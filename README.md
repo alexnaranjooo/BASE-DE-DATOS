@@ -1,8 +1,21 @@
-# Base de Datos
+# 🗄️ Base de Datos
 
-Repositorio dedicado a la asignatura de **Base de Datos**, donde se recopilan todos los ejercicios, prácticas y proyectos desarrollados durante el curso.
+### Repositorio de ejercicios, prácticas y proyectos de la asignatura de Base de Datos
 
-## 📚 Contenido
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Status](https://img.shields.io/badge/Estado-En%20desarrollo-green?style=for-the-badge)
+![Type](https://img.shields.io/badge/Tipo-Asignatura%20ASIX-blue?style=for-the-badge)
+
+---
+
+### 📋 Sobre el repositorio
+
+Este repositorio está dedicado a la asignatura de **Base de Datos**, donde se recopilan todos los ejercicios, prácticas y proyectos desarrollados durante el curso. Se actualiza regularmente con el material visto en clase.
+
+---
+
+### 📚 Contenido
 
 Este repositorio incluye:
 
@@ -12,20 +25,45 @@ Este repositorio incluye:
 - Proyectos y trabajos de la asignatura
 - Apuntes y material de estudio
 
-## 🗂️ Estructura
+---
 
-Los archivos están organizados por temas o prácticas según se vayan desarrollando en clase.
+### ⚙️ Tecnologías
 
-## 🛠️ Tecnologías
-
-- SQL
-- MySQL
-- Herramientas de modelado de bases de datos
-
-## 📝 Notas
-
-Este repositorio se actualiza regularmente con el material visto en clase.
+| Tecnología | Uso |
+|------------|-----|
+| `SQL` | Lenguaje de consultas y manipulación de datos |
+| `MySQL` | Sistema de gestión de bases de datos relacional |
+| `Herramientas de modelado` | Diseño de diagramas ER y esquemas |
 
 ---
 
-⭐ Repositorio creado para el seguimiento y aprendizaje de la asignatura de Base de Datos de ASIX
+### 📂 Estructura del repositorio
+
+```
+Base-de-Datos/
+├── Ejercicios/
+│   ├── Tema1/
+│   ├── Tema2/
+│   └── ...
+├── Practicas/
+│   └── ...
+├── Proyectos/
+│   └── ...
+├── Apuntes/
+│   └── ...
+└── README.md
+```
+
+> Los archivos están organizados por temas o prácticas según se desarrollan en clase.
+
+---
+
+### 📝 Notas
+
+- Este repositorio se actualiza regularmente con nuevo material
+- Los ejercicios siguen el temario de la asignatura de Base de Datos
+- Incluye tanto teoría como práctica de SQL y modelado
+
+---
+
+*Repositorio creado para el seguimiento y aprendizaje de la asignatura de Base de Datos · ASIX*
