@@ -37,27 +37,6 @@ Este repositorio incluye:
 
 ---
 
-### 📂 Estructura del repositorio
-
-```
-Base-de-Datos/
-├── Ejercicios/
-│   ├── Tema1/
-│   ├── Tema2/
-│   └── ...
-├── Practicas/
-│   └── ...
-├── Proyectos/
-│   └── ...
-├── Apuntes/
-│   └── ...
-└── README.md
-```
-
-> Los archivos están organizados por temas o prácticas según se desarrollan en clase.
-
----
-
 ### 📝 Notas
 
 - Este repositorio se actualiza regularmente con nuevo material
